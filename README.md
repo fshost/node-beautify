@@ -8,8 +8,7 @@ to beautify javascript:
 		require('beautify-node').beautifyJs(source, options);
 		
 where
-	- source is a string of javascript source code
-	- options is a set of options (not required)
+	source is a string of javascript source code, and options is a set of options (not required)
 		
 
 ## Default Options 

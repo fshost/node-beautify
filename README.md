@@ -1,6 +1,10 @@
 # Node Beautify - an asset beautifier for node.js
 
 
+## Installation
+
+	npm install node-beautify
+
 ## Usage
 
 to beautify javascript:

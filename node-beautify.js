@@ -1,1 +1,1 @@
-exports.beautifyJs = require('./lib/beautify-js');
+exports.beautifyJs = require('./lib/beautify-js').beautify;

@@ -17,13 +17,13 @@ where
 
 ## Default Options 
 
-	- indentSize: 4
-	- indentChar: ' '
-	- preserveNewlines: true
-	- bracesOnOwnLine: false
-	- keepArrayIndentation: false
-	- spaceAfterAnonFunction: true
-	- indentLevel: 0
+- indentSize: 4
+- indentChar: ' '
+- preserveNewlines: true
+- bracesOnOwnLine: false
+- keepArrayIndentation: false
+- spaceAfterAnonFunction: true
+- indentLevel: 0
 
 
 ## Requirements

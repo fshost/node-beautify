@@ -1,18 +1,27 @@
-{	
-	"name"    : "node-beautify",
-	"version" : "0.0.3",
-	"description" : "'beautifys' (formats) assets such as javascript files to be easily read",
-	"main"    : "node-beautify",
-	"homepage": "https://github.com/fshost",
-	"author"  : {
-			"name"  : "Nathan Cartwright",
-			"email" : "fshost@yahoo.com",
-			"url"   : "https://github.com/fshost"
-	},
-	"directories": {
-		"lib": "lib"
-	},
-	"scripts": { "test": "node ./test/beautify-test.js" },
-	"engines": { "node": ">= 0.5.0" },
-	"licenses"      : ["MIT"]
+{
+  "name": "node-beautify",
+  "version": "0.0.4",
+  "description": "'beautifys' (formats) assets such as javascript files to be easily read",
+  "main": "node-beautify",
+  "homepage": "https://github.com/fshost",
+  "author": {
+    "name": "Nathan Cartwright",
+    "email": "fshost@yahoo.com",
+    "url": "https://github.com/fshost"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">= 0.5.0"
+  },
+  "licenses": [
+    "MIT"
+  ],
+  "devDependencies": {
+    "should": "^3.1.3"
+  }
 }

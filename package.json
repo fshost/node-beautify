@@ -22,6 +22,7 @@
     "MIT"
   ],
   "devDependencies": {
+    "mocha": "latest",
     "should": "^3.1.3"
   }
 }

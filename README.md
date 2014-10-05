@@ -37,9 +37,6 @@ where
     console.log(prettyJs);
 
 ## To run tests
-Mocha should be installed globally.  If it is not, you can install it by typing
-
-    npm install mocha -g
 
 Clone the repository using git, e.g.
 
@@ -49,9 +46,9 @@ After the repo has been cloned, in the repo directory type
 
     npm install
 
-After all dependencies are installed, the tests can be run by typing
+The tests can be run by typing
     
-    mocha
+    npm test
 
 ## Requirements
 

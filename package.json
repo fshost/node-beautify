@@ -9,6 +9,9 @@
     "email": "fshost@yahoo.com",
     "url": "https://github.com/fshost"
   },
+  "contributors": [
+    "Larry Battle (http://github.com/LarryBattle)"
+  ],
   "directories": {
     "lib": "lib"
   },
@@ -22,6 +25,7 @@
     "MIT"
   ],
   "devDependencies": {
+    "mocha": "latest",
     "should": "^3.1.3"
   }
 }

@@ -1,5 +1,8 @@
 # Node-Beautify
 
+Important Notice!  Node-Beautify has been deprecated at the request of the developers of js-beautify.  As js-beautify can now be required as a module within a node app and used in a similar way to node-beautify, I have complied with their request.  The following documentation is preserved for the sake of those who may already be using node-beautify in their project(s).
+
+
 Node-Beautify is a node.js module that can be easily required and used to beautify assets from within a Node.js script. It is not meant to be a command-line tool, there are plenty of existing tools for that. The purpose of Node-Beautify is for javascript based build scripts or the like that want to be able to 'require' a beautifier module.  Currently it only supports javascript.  The original intent was to encapsulate additional syntax support, such as css.  I may still do that at some point, but if you would like to add another formatting parser in the meantime, feel free to fork this repo and send a pull request.
 
 ## Installation

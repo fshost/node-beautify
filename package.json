@@ -1,6 +1,6 @@
 {
   "name": "node-beautify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "'beautifys' (formats) assets such as javascript files to be easily read",
   "main": "node-beautify",
   "homepage": "https://github.com/fshost",
